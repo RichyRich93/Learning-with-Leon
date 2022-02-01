@@ -1,0 +1,42 @@
+header{
+height: 250px;
+width: 100%;
+background-color: chartreuse;
+}
+
+.top{
+height: 300px;
+width: 33.3333%;
+float: left;
+}
+.cat{
+background-color: chocolate;
+}
+.dog{
+background-color: cornflowerblue;
+}
+.bird{
+background-color: darkkhaki;
+}
+
+.row2{
+clear: both;
+}
+.bottom{
+height: 300px;
+width: 50%;
+float: left;
+}
+.mouse{
+background-color: gray;
+}
+.rabbit{
+background-color: indianred;
+}
+
+footer{
+clear: both;
+height: 250px;
+width: 100%;
+background-color: indigo;
+}

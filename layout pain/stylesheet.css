@@ -1,0 +1,81 @@
+*{
+box-sizing: border-box;
+}
+
+/* FOR DESKTOP*/
+
+
+.poop{
+height: 300px;
+float: left;
+width: 33.3333%;
+background-color: indianred;
+border:4px solid rgb(158, 207, 209);
+
+}
+
+.poop1{
+height: 300px;
+float: left;
+width: 33.3333%;
+background-color: rgb(73, 73, 73);
+border:4px solid rgb(158, 207, 209);
+
+}
+
+.poop2{
+height: 300px;
+float: left;
+width: 33.3333%;
+background-color: rgb(122, 0, 0);
+border:4px solid rgb(158, 207, 209);
+
+}
+
+
+
+header{
+text-align: center;
+height: 150px;
+background-color: lawngreen;
+}
+
+footer{
+clear: left;
+text-align: center;
+height: 150px;
+background-color: lightseagreen;
+}
+
+/* FOR MOBILE */
+
+@media (max-width:1200px)
+{
+
+.poop{
+height: 300px;
+float: left;
+width: 100%;
+background-color: indianred;
+border:4px solid rgb(158, 207, 209);
+
+}
+
+.poop1{
+height: 300px;
+float: left;
+width: 100%;
+background-color: rgb(73, 73, 73);
+border:4px solid rgb(158, 207, 209);
+
+}
+
+.poop2{
+height: 300px;
+float: left;
+width: 100%;
+background-color: rgb(122, 0, 0);
+border:4px solid rgb(158, 207, 209);
+
+}
+}
